@@ -7,7 +7,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: bg-hue.svg
+      filename: bg-hue.jpg
 
 sections:
   - block: resume-biography
@@ -30,5 +30,5 @@ sections:
           url: https://youtube.com
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://www.linkedin.com/in/jiayi-y/
 ---
