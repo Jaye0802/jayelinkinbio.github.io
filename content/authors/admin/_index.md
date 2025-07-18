@@ -42,6 +42,8 @@ profiles:
 ---
 
 I graduated with a bachelor's degree from the Central University of Finance and Economics in Beijing, China, and am currently studying Financial Engineering at UC Berkeley. 
+
 I have a strong passion for systematic macro and multi-asset allocation. With a background in Applied Statistics, I’ve built a solid foundation in Probability Theory, Numerical Analysis, Stochastic Processes, PDEs, and Machine Learning. My previous buy-side internship experience allowed me to apply these quantitative skills to real-world equities and futures markets.
+
 I’m eager to deepen my expertise in macro research and multi-asset strategies and am open to new opportunities in this space.
 
